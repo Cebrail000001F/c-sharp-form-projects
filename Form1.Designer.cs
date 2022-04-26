@@ -183,6 +183,7 @@
             this.rKoni.Size = new System.Drawing.Size(100, 23);
             this.rKoni.TabIndex = 5;
             this.rKoni.Text = "0";
+            this.rKoni.TextChanged += new System.EventHandler(this.rKoni_TextChanged);
             // 
             // label13
             // 
@@ -299,9 +300,9 @@
             this.label7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
             this.label7.Location = new System.Drawing.Point(111, 20);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(43, 21);
+            this.label7.Size = new System.Drawing.Size(38, 21);
             this.label7.TabIndex = 1;
-            this.label7.Text = "Kare";
+            this.label7.Text = "Küp";
             // 
             // pictureBox2
             // 
