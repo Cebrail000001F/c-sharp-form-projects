@@ -1,4 +1,4 @@
-namespace Geometri_Hesaplayıcı
+namespace radioButton_CheckBox_Panel
 {
     internal static class Program
     {
