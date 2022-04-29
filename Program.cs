@@ -1,4 +1,4 @@
-namespace radioButton_CheckBox_Panel
+namespace WinFormsApp2
 {
     internal static class Program
     {
